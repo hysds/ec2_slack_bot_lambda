@@ -1,6 +1,6 @@
 ## Lambda needed for the AWS instance checker bot
 
-https://github.com/DustinKLo/ec2_monitor_bot
+https://github.com/hysds/ec2_slack_bot
 
 - Alternative to the endpoint that listens to slack API requests
     - Lambda will verify the slack signature and push the data to SQS
